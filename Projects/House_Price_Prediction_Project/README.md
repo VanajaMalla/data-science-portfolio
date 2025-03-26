@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 
 #### Start Flask Server
-1.Run the server by navigating to the server/ folder and running:
+1. Run the server by navigating to the server/ folder and running:
 
 ```bash
 python server.py
