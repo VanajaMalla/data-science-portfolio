@@ -2,7 +2,7 @@
 
 This project aims to predict the price of real estate properties in Bangalore, India based on features such as area, number of bedrooms, number of bathrooms, and location. The project uses machine learning models like Linear Regression, Lasso Regression, Decision Tree, and Random Forest to estimate property prices.
 
-![Project Image](images/BHP.png)
+![Project Image](images/BHP.PNG)
 
 ## Features
 
@@ -39,7 +39,7 @@ This project aims to predict the price of real estate properties in Bangalore, I
 - Society, Balcony, Availability (columns removed during preprocessing)
 
 ### File structure:
-
+```
 House_Price_Prediction_Project/           
 ├── client/             # HTML/CSS/Javascript for UI
 ├── data/               # Dataset folder
@@ -47,7 +47,7 @@ House_Price_Prediction_Project/
 ├── server/             # utils and Python flask for http server
 ├── README.md           # Description of the project and how to run it
 └── requirements.txt    # Required libraries for the project
-  
+````  
 
 ### Installation
 
